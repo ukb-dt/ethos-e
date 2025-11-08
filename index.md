@@ -39,17 +39,17 @@ Instead of treating them as separate, consider both as **responses to a system b
 
 ### **[2](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2245&context=jssw). A functional model**
 
-Let ( S(t) ) represent stress over time. Let ( B(t) ) be bandwidth and ( R(t) ) be reserve capacity. Then the **response function** could be expressed as:
+Let $S(t)$ represent stress over time. Let $B(t)$ be bandwidth and $R(t)$ be reserve capacity. Then the **response function** could be expressed as:
 
-[
+$$
 \text{Response}(t) = f\big(S(t), B(t), R(t)\big)
-]
+$$
 
 Where:
 
-* **If (S(t) \le B(t)):** Standard coping suffices. System operates within bandwidth.
-* **If (S(t) > B(t)):** Reserve is mobilized → adaptive mechanisms kick in, expanding capacity or restructuring the system.
-* **If (S(t) \gg B(t)+R(t)):** System may fail—maladaptive coping appears.
+* **If $S(t) \le B(t)$:** Standard coping suffices. System operates within bandwidth.
+* **If $S(t) > B(t)$:** Reserve is mobilized → adaptive mechanisms kick in, expanding capacity or restructuring the system.
+* **If $S(t) \gg B(t)+R(t)$:** System may fail—maladaptive coping appears.
 
 **Interpretation:**
 
@@ -69,6 +69,4 @@ Where:
 
 In other words, **coping and adaptive responses are two dimensions along the same axis of system resilience**, distinguished by whether the system **stays within current limits** or **modifies its limits to absorb future stress**.
 
----
 
-If you want, I can sketch a **graph/model showing stress vs. bandwidth/reserve** with coping and adaptive regions—it’s very intuitive once visualized. Do you want me to do that?
