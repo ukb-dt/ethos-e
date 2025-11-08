@@ -18,7 +18,7 @@
 {% endraw %}
 
 <div>
-  <img src="unfaithuful-angels/harry-specht.jpg" width="49%" height="400px">
+  <img src="unfaithuful-angels/harry-specht.jpg" width="39%" height="400px">
 </div>
 
 Ah, I see exactly what you’re getting at—you’re thinking **systems-level**, not just psychological labels. You want a framework where coping and adaptation aren’t two separate “good vs. bad” categories but **points along a spectrum of capacity management under stress**. Let’s synthesize this rigorously.
